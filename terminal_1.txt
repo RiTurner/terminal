@@ -1,0 +1,14 @@
+pwd
+cd ..
+mkdir - create
+ls - la - show 
+touch create txt
+cat >> txt - create and edit
+cat  txt show what inside
+cp 1 2  copy 
+cp 1 ../d/2  copy fail1 in another foulder d
+mv
+mv 1 2 renaim
+vim txt - edit
+cat 1>2 substitute content of 2 with 1
+rm remove
