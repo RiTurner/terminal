@@ -1,0 +1,6 @@
+{
+"Registr"
+"email": "Passed",
+"Social networks": "Passed",
+"Valid fields": "Passed"
+}
