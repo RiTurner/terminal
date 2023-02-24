@@ -1,0 +1,8 @@
+{
+"Title": "Lists on the main screen are not displayed",
+"Project": "Shop",
+"Severity": "critical",
+"Priority": "medium",
+"Status": "in progress",
+"Expected result": "Lists on the main screen are displayed"
+}
