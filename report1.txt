@@ -1,8 +1,8 @@
 {
 "Title": "Button Buy on the main screen do not work",
 "Project": "Shop",
-"Severity": 4,
-"Priority": 3,
+"Severity": "Critical",
+"Priority": "High",
 "Status": "in progress",
 "Expected result": "Button Buy on the main screen works"
 }
