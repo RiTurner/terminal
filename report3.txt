@@ -1,0 +1,8 @@
+{
+"Title": "Words on the main screen are not displayed",
+"Project": "Shop",
+"Severity": "trivial",
+"Priority": "low",
+"Status": "in progress",
+"Expected result": "Words on the main screen are displayed"
+}
