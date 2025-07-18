@@ -1,8 +1,0 @@
-{
-"Title": "Button Buy on the main screen do not work",
-"Project": "Shop",
-"Severity": "Critical",
-"Priority": "High",
-"Status": "in progress",
-"Expected result": "Button Buy on the main screen works"
-}
